@@ -25,7 +25,7 @@ In this project I followed the different steps of Machine Learning, Which are:
 1. Data Cleaning: In which I check for Null values, duplicate data, spelling mistakes and Outliers
 2. Then I done the Proper Exploratory Data Analysis
 3. After That I done the Encoding based the categorical variable
-4. Moving forward I split the data and then performed the Imbalanced Techniques to balance the data
+4. Moving forward I split the data and then performed the Imbalanced Techniques(SMOTENN) to balance the data
 5. Then I scaled the data and tried all classification machine learning models to train the data
 6. Out of all the machine learning models XGBoost Classifier gives best AUROC.
 7. Finally I done the Feature Importance to find the important factors that contribute towards the conversion rate.
